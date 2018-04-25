@@ -5,7 +5,7 @@ The auto install script for iTop2.4.1
 #   This bash script made by Chen Jiang    #
 ############################################
 
-The bash script should be downloaded to your CentOS7 which already finished installation and network configuration, your CentOS7 must be able to access to the internet. This script will configure the firewall open & add httpd, if you want to open other ports on firewall you should change the script!
+The bash script should be downloaded to your CentOS7 which already finished installation and network configuration, your CentOS7 must be able to access to the internet. This script will configure the firewall open & add httpd,SSH is OK, if you want to open other ports on firewall you should change the script!
 
 Steps:
 
