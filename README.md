@@ -20,4 +20,4 @@ run the command as root as follows：
 run the command as root as follows：
 #bash itop_install_all_extensions.sh
 
-4) After rebooting, please login the http://ip address/itop to make first configuration.
+4）After rebooting, please login the http://ip address/itop to make first configuration.
