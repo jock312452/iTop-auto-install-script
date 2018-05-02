@@ -21,3 +21,6 @@ run the command as root as follows：
 #bash itop_install_all_extensions.sh
 
 4）After rebooting, please login the http://ip address/itop to make first configuration.
+
+
+MySQL connect: root / 123419itop
