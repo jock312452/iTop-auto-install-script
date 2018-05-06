@@ -14,11 +14,11 @@ Download the itop_install_all_extensions.sh to your CentOS7 which preinstalled a
 
 2）Second Step:
 run the command as root as follows：
-#chmod 755 itop_install_all_extensions.sh
+#chmod 755 itop_install_all_extensions.v1.2.sh
 
 3）Third Step:
 run the command as root as follows：
-#bash itop_install_all_extensions.sh
+#bash itop_install_all_extensions.v1.2.sh
 
 4）After rebooting, please login the http://ip address/itop to make first configuration.
 
